@@ -1,0 +1,7 @@
+Classified:445
+
+Misclassified:155
+
+Total Instances:600
+
+Accuracy:74.1666666667%
